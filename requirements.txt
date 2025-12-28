@@ -1,3 +1,5 @@
 streamlit
 pdfplumber
 pymupdf
+pytesseract
+pdf2image
